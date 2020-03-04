@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pglp_3.3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pglp_3_3_jar</output-path>
+    <root id="archive" name="pglp_3.3.jar">
+      <element id="module-output" name="pglp_3.3" />
+    </root>
+  </artifact>
+</component>
