@@ -1,7 +1,7 @@
 package com.elgo;
 
 public abstract class Robot {
-    protected int position;
+    public int position;
     public Robot(int position){
         this.position = position;
     }
